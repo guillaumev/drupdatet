@@ -7,6 +7,9 @@
 /* Home */
 #home-container {
   background-image: url('../img/home.jpg');
+  min-height: 500px;
+  color: white;
+  padding-top: 25%;
 }
 
 /* Footer */
