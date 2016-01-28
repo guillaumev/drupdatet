@@ -4,6 +4,10 @@
   border: none;
 }
 
+/* Home */
+#home-container {
+  background-image: url('../img/home.jpg');
+}
 
 /* Footer */
 .footer {
