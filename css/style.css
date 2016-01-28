@@ -1,0 +1,14 @@
+
+.footer {
+  background-color: #50457B;
+}
+
+.footer h2,
+.footer a {
+  color: white;
+}
+
+.footer li {
+  list-style-type: none;
+}
+
