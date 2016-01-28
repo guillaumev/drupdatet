@@ -1,6 +1,17 @@
 
+.navbar-default {
+  background-color: transparent;
+  border: none;
+}
+
+
+/* Footer */
 .footer {
   background-color: #50457B;
+}
+
+.footer h2 {
+  margin-top: 0;
 }
 
 .footer h2,
