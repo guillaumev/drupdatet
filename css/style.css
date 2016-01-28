@@ -26,7 +26,8 @@ h1 {
 }
 
 .footer h2,
-.footer a {
+.footer a,
+.footer p {
   color: white;
 }
 
